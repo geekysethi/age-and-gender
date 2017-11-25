@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ashish/Desktop/age-and-gender/code/ageandgender-0.001-2conv_basic.model"
+all_model_checkpoint_paths: "/home/ashish/Desktop/age-and-gender/code/ageandgender-0.001-2conv_basic.model"
