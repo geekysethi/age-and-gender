@@ -14,7 +14,6 @@ In this project we have implemented the CNN architecture of [this paper](https:/
 [IMDB-WIKI – 500k+ face images with age and gender labels](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
 
 
-<!-- ### Paper implemented
+### Graph
+![0](https://github.com/geekysethi/age-and-gender/blob/master//graph.png)
 
-[Age and Gender Classification using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W08/papers/Levi_Age_and_Gender_2015_CVPR_paper.pdf)
- -->
