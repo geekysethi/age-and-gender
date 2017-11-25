@@ -1,6 +1,6 @@
 # Gender Classification 
 
-In this project we have implemented the CNN architecture of [this paper](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W08/papers/Levi_Age_and_Gender_2015_CVPR_paper.pdf)using IMDB-WIKI dataset 
+In this project we have implemented the CNN architecture of [this paper](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W08/papers/Levi_Age_and_Gender_2015_CVPR_paper.pdf) using IMDB-WIKI dataset 
 
 ### Dependencies Used
 
